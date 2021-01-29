@@ -1,0 +1,8 @@
+[0117/103933.779:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0117/103933.953:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\vitto\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\d4115afb-744e-4508-ae76-4fbdce3db926: El sistema no puede encontrar la ruta especificada. (0x3)
+[0117/103933.954:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\vitto\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\435bc4c1-1f1c-4685-9812-f538d67e3989: El sistema no puede encontrar la ruta especificada. (0x3)
+[0117/103933.956:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\vitto\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\96303cce-7609-4aa1-b956-1d5ae4d11e68: El sistema no puede encontrar la ruta especificada. (0x3)
+[0117/162528.327:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0118/141330.018:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0118/141330.330:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\vitto\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\3fdf8e06-cec8-45cd-bedc-22ffd45d9569: El sistema no puede encontrar la ruta especificada. (0x3)
+[0119/143521.642:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
